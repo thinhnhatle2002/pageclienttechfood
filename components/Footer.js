@@ -138,11 +138,11 @@ export default function Footer({ t }) {
                   {" "}
                   <p>Điều khoản dịch vụ</p>
                 </NavLink>
-                <NavLink href={"#"}>
+                <NavLink href={"/dieukhoan/dichvugiamphivanchuyen"}>
                   {" "}
                   <p>Dịch vụ giảm chi phí vận chuyển</p>
                 </NavLink>
-                <NavLink href={"#"}>
+                <NavLink href={"/dieukhoan/chinhsachvanchuyen"}>
                   {" "}
                   <p>Chính sách vận chuyển TechFood</p>
                 </NavLink>
